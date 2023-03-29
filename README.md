@@ -2,6 +2,8 @@
 
 Este é um projeto de um jogo da velha em C# que foi desenvolvido com base em tutoriais em vídeo do YouTube. O objetivo deste projeto era aprimorar minhas habilidades em programação e aplicar alguns dos conceitos que aprendi nos vídeos.
 
+OBS: Ainda vou melhora-lo, de forma a ficar mais claro com as funções e tentar acrescentar uma classe, para melhorar a performace
+
 ## Descrição do Projeto
 
 O projeto é um jogo da velha clássico que permite a dois jogadores jogar em um tabuleiro de 3x3 células. A jogabilidade é simples e intuitiva, permitindo que os jogadores cliquem em uma célula para fazer sua jogada. O jogo verifica automaticamente se houve um vencedor ou empate e encerra o jogo.
